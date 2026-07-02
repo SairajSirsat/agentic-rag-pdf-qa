@@ -7,3 +7,5 @@ venv/
 .wheels/
 .claude/
 .installers/
+*.log
+run_streamlit.cmd

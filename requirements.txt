@@ -7,3 +7,4 @@ pydantic>=2.7
 numpy>=1.26
 tqdm>=4.66
 streamlit>=1.38
+flask>=3.1
